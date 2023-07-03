@@ -6,3 +6,4 @@ distance_analysis.m - script for comparing Euclidean distance between tSNE plots
 
 plot_networkmatrix.m - code for plotting matrices ordered by networks
 
+tsne_exploration.m - code for t-SNE parameter sweep and deciding what values for each parameter to use
